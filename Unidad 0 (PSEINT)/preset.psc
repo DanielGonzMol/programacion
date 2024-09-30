@@ -1,5 +1,5 @@
-Algoritmo Ejercicio8
+Algoritmo preset
 	
 	
-	//Por Daniel González Molina
+	//Por Daniel Gonzï¿½lez Molina
 FinAlgoritmo
